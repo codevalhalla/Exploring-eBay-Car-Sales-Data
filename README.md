@@ -1,7 +1,5 @@
 # Analyzing Used Car Listings on eBay Kleinanzeigen
 
-![Car](https://images.unsplash.com/photo-1568602471123-6e1e8930ce7d)
-
 ## Overview
 
 This project involves the analysis of a dataset containing used car listings from *eBay Kleinanzeigen*, a classifieds section of the German eBay website. The dataset consists of various attributes related to the listed cars, such as their price, mileage, brand, and more. The goal of the project is to clean the data and perform an exploratory analysis to gain insights into the used car market.
@@ -39,8 +37,6 @@ This project offers the following benefits:
 - Gaining familiarity with working on messy datasets.
 
 Feel free to explore the project's [Jupyter Notebook](https://github.com/vajrastra/Exploring-eBay-Car-Sales-Data/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb) for a detailed walkthrough of the analysis.
-
-![Graph](https://images.unsplash.com/photo-1591280482936-737b503dae9f)
 
 ## Contact
 
