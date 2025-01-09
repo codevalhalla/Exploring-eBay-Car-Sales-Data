@@ -35,5 +35,4 @@ Feel free to explore the full analysis in the [Jupyter Notebook](https://github.
 
 ## Contact
 
-- GitHub: [vajrastra](https://github.com/vajrastra)
 - Email: prsk3496@gmail.com
